@@ -1,8 +1,8 @@
 const express = require('express')
 const routes = express.Router()
-const controller = require('../controllers/index.controllers')
+const {menu,loadUser} = require('../controllers/index.controllers')
 
-routes.post('/index', controller.index)
-routes.post('/prueba',controller.prueba)
+routes.get('/users', menu)
+routes.post('/newUser', loadUser)
 
 module.exports = routes
