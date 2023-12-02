@@ -1,7 +1,7 @@
 const { Model, model } = require('mongoose')
 let modelo = require('../../schema/schemaUsers')
 
-const menu = async (req, res) => {
+const products = async (req, res) => {
     console.log('ok')
     let resultado = await modelo.find()
     res.send(resultado)
@@ -23,4 +23,4 @@ const loadUser = async(req, res) => {
     res.status(201).json({'user':'created'})
 }
 
-module.exports = {menu,loadUser}
+module.exports = {products,loadUser}

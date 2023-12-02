@@ -1,9 +1,12 @@
 const mongoose = require('mongoose')
 
-let RestauranteSchema = new mongoose.Schema({
-    username: String,
-    email: String,
-    password : String,
+let productsSchema = new mongoose.Schema({
+    title: String,
+    price: Number,
+    image: String,
+    category: String,
+    description: String,
+    stock: Number,
 })
 
-module.exports = mongoose.model('users',RestauranteSchema)
+module.exports = mongoose.model('products',productsSchema)
