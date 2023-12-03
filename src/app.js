@@ -10,7 +10,7 @@ app.use("", routes)
 
 
 require('../config/database.js')
-require('../schema/schemaUsers.js')
+require('../schema/schemaProducts.js')
 
 app.listen(port, () => {
     console.log('app escuchando en el puerto ' + port)

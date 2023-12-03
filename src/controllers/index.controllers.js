@@ -1,5 +1,5 @@
 const { Model, model } = require('mongoose')
-let modelo = require('../../schema/schemaUsers')
+let modelo = require('../../schema/schemaUsers.js')
 
 const products = async (req, res) => {
     console.log('ok')

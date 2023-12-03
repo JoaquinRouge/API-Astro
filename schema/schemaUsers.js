@@ -1,12 +1,9 @@
 const mongoose = require('mongoose')
 
-let productsSchema = new mongoose.Schema({
-    title: String,
-    price: Number,
-    image: String,
-    category: String,
-    description: String,
-    stock: Number,
+let usersSchema = new mongoose.Schema({
+    username: String,
+    email: String,
+    password: String,
 })
 
-module.exports = mongoose.model('products',productsSchema)
+module.exports = mongoose.model('users',usersSchema)
