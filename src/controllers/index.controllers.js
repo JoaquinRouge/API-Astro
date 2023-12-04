@@ -1,16 +1,17 @@
 const { Model, model } = require('mongoose')
-let modelo = require('../../schema/schemaUsers.js')
+let modeloUsers = require('../../schema/schemaUsers.js')
+let modeloProducts = require('../../schema/schemaProducts.js')
 
 const products = async (req, res) => {
     console.log('ok')
-    let resultado = await modelo.find()
+    let resultado = await modeloProducts.find()
     res.send(resultado)
 }
 
 const loadUser = async(req, res) => {
     const {username, email, password} = req.body
     
-    let newUser = new modelo({
+    let newUser = new modeloUsers({
 
         username: username,
         email: email,
@@ -18,7 +19,7 @@ const loadUser = async(req, res) => {
 
     })
 
-    let resultado = await modelo.collection.insertOne(newUser)
+    let resultado = await modeloUsers.collection.insertOne(newUser)
 
     res.status(201).json({'user':'created'})
 }
