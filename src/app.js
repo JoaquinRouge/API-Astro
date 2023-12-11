@@ -7,7 +7,7 @@ const routes = require('./routes/index.routes')
 app.use(cors())
 app.use(express.json())
 app.use("", routes)
-
+app.use('/images',express.static('./images'))
 
 require('../config/database.js')
 require('./schema/schemaProducts.js')
