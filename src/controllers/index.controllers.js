@@ -115,4 +115,17 @@ const seeData = async(req, res) => {
     res.redirect('http://localhost:5173/remeras')
 }
 
-module.exports = {products,loadUser,getProduct,ComparePassword,seeData}
+const DeleteProduct = async (req, res)=>{
+    const { title } = req.body
+    
+    let productId = new modeloProducts({
+        title: title,
+    })
+
+    let resultado = await modeloProducts.collection.deleteOne({title:title})
+
+    res.status(201).json({"product":"deleted"})
+
+}
+
+module.exports = {products,loadUser,getProduct,ComparePassword,seeData,DeleteProduct}
