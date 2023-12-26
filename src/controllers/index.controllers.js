@@ -77,7 +77,7 @@ const ComparePassword = async(req,res) => {
                     role: userLoged.role,
                 };
     
-                jwt.sign(payload, process.env.jwtpassword, { expiresIn: '15s' }, (err,token) => {
+                jwt.sign(payload, process.env.jwtpassword, { expiresIn: '30m' }, (err,token) => {
                     if (err) {
                         console.log(err)
                         res.status(500).send(err)
@@ -96,7 +96,7 @@ const ComparePassword = async(req,res) => {
                     role: userLoged.role,
                 };
     
-                jwt.sign(payload, process.env.jwtpassword, { expiresIn: '15s' }, (err, token) => {
+                jwt.sign(payload, process.env.jwtpassword, { expiresIn: '30m' }, (err, token) => {
                     if (err) {
                         console.log(err)
                         res.status(500).send(err)
@@ -128,4 +128,36 @@ const DeleteProduct = async (req, res)=>{
 
 }
 
-module.exports = {products,loadUser,getProduct,ComparePassword,seeData,DeleteProduct}
+const updateProduct = async(req, res) => {
+
+    const {titleOld, title, price, category, description, stock, tipo} = req.body
+    
+    let productInfo = new modeloProducts({
+        title: title,
+        price: price,
+        category: category,
+        description: description,
+        stock:stock,
+    })
+
+    let resultado = await modeloProducts.collection.updateOne({title:titleOld},
+        {
+            $set: {
+                title: title,
+                price: price,
+                category: category,
+                description: description,
+                stock: stock,
+                tipo: tipo,
+            }
+        })
+    if (resultado) {
+        res.status(201).json({ "product": "updated" })  
+        console.log('updated pa')
+    } else if (err) {
+        console.log(err)
+        }
+        
+}
+
+module.exports = {products,loadUser,getProduct,ComparePassword,seeData,DeleteProduct,updateProduct}

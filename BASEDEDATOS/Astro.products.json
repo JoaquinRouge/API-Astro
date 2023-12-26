@@ -1,0 +1,398 @@
+[{
+  "_id": {
+    "$oid": "656b556219d746deef126ece"
+  },
+  "title": "Remeron Gorillaz",
+  "price": "36000",
+  "image": "https://acdn.mitiendanube.com/stores/219/431/products/4562c9c8-0204-4421-877c-23a45af2af69-71fb02845e14181b9f16990212918984-1024-1024.webp",
+  "category": "Ropa de hombre",
+  "description": "Remeron Oversize fit con estampa al frente.",
+  "stock": "67",
+  "tipo": "Remera"
+},
+{
+  "_id": {
+    "$oid": "656b556219d746deef126ecf"
+  },
+  "title": "Remeron MNKY Need Love Black",
+  "price": 34990,
+  "image": "https://acdn.mitiendanube.com/stores/219/431/products/62d69aad-c023-44ec-8bed-da6cc1e8e6a0-8c7f16b779ec9ea64516993754833613-1024-1024.webp",
+  "category": "Ropa de hombre",
+  "description": "Remerón oversize fit con estampa en frente y espalda.",
+  "stock": 40,
+  "tipo": "Remera"
+},
+{
+  "_id": {
+    "$oid": "656b556219d746deef126ed0"
+  },
+  "title": "Remeron MNKY Need Love White",
+  "price": 34990,
+  "image": "https://acdn.mitiendanube.com/stores/219/431/products/a98b2db7-48dc-4b88-9a01-a87d9eedb3df-e474049535ab03b87616990234912819-1024-1024.webp",
+  "category": "Ropa de hombre",
+  "description": "Remerón oversize fit con estampa en frente y espalda.",
+  "stock": 47,
+  "tipo": "Remera"
+},
+{
+  "_id": {
+    "$oid": "656b556219d746deef126ed1"
+  },
+  "title": "Remeron BeNight",
+  "price": 26990,
+  "image": "https://acdn.mitiendanube.com/stores/219/431/products/ff84a132-6507-410e-beb6-32fcfffcfcf0-b5f23440f95c4f0a9616935192243908-1024-1024.webp",
+  "category": "Ropa de mujer",
+  "description": "Remerón oversize fit. Estampa en el frente y espalda",
+  "stock": 32,
+  "tipo": "Remera"
+},
+{
+  "_id": {
+    "$oid": "656b556219d746deef126ed2"
+  },
+  "title": "Remera Fear MNKY",
+  "price": 15390,
+  "image": "https://acdn.mitiendanube.com/stores/219/431/products/74d992b6-cdb1-463a-be8e-160d7aa2e785-36878129c953376f2016935197797746-1024-1024.webp",
+  "category": "Ropa de mujer",
+  "description": "Remera manga larga con estampa en frente, espalda y mangas",
+  "stock": 23,
+  "tipo": "Remera"
+},
+{
+  "_id": {
+    "$oid": "656b556219d746deef126ed3"
+  },
+  "title": "Remeron Balance",
+  "price": 26990,
+  "image": "https://acdn.mitiendanube.com/stores/219/431/products/f9869723-7261-48bc-b258-ed03826dfce0-c82eba0241650ffb5916935191945454-1024-1024.webp",
+  "category": "Ropa de mujer",
+  "description": "Remerón oversize fit. Estampa en el frente y espalda.",
+  "stock": 33,
+  "tipo": "Remera"
+},
+{
+  "_id": {
+    "$oid": "656b556219d746deef126ed4"
+  },
+  "title": "Polera Mirror",
+  "price": 21990,
+  "image": "https://acdn.mitiendanube.com/stores/219/431/products/f8d06f6a-ff35-4888-a3d7-ba8a4a6931bd-c4f782ee7441a1f13516935196732874-1024-1024.webp",
+  "category": "Ropa de mujer",
+  "description": "Media polera estampada",
+  "stock": 45,
+  "tipo": "Remera"
+},
+{
+  "_id": {
+    "$oid": "656caa8e74e2cb9477de5dc2"
+  },
+  "title": "Buzo Brand Lime",
+  "price": 63990,
+  "image": "https://acdn.mitiendanube.com/stores/219/431/products/eebb4212-fde7-4657-8407-3eace0e46294-1ef36b6a74628f23a916993755280277-1024-1024.webp",
+  "category": "Ropa de hombre",
+  "description": "Buzo con estampa en el frente oversize fit.",
+  "stock": 56,
+  "tipo": "Buzo"
+},
+{
+  "_id": {
+    "$oid": "656caa8e74e2cb9477de5dc3"
+  },
+  "title": "Buzo E-Sum 24 Pink",
+  "price": 59990,
+  "image": "https://acdn.mitiendanube.com/stores/219/431/products/b5968517-0cec-4e1f-aafe-16665b32f55b-4bbab2603da7e9ccf416963543319699-1024-1024.webp",
+  "category": "Ropa de hombre",
+  "description": "Buzo oversize fit con capucha y bordado 3D a tono en el frente",
+  "stock": 57,
+  "tipo": "Buzo"
+},
+{
+  "_id": {
+    "$oid": "656caa8e74e2cb9477de5dc4"
+  },
+  "title": "Buzo MNKY NAB",
+  "price": 64990,
+  "image": "https://acdn.mitiendanube.com/stores/219/431/products/37b73271-9832-4271-9b26-7d36f01a39b5-2d32fbf12214164f7316990533433207-1024-1024.webp",
+  "category": "Ropa de hombre",
+  "description": "Buzo oversize-fit, con bolsillo canguro y capucha. Estampado en el frente",
+  "stock": 60,
+  "tipo": "Buzo"
+},
+{
+  "_id": {
+    "$oid": "656caa8e74e2cb9477de5dc5"
+  },
+  "title": "Buzo Chain",
+  "price": 47990,
+  "image": "https://acdn.mitiendanube.com/stores/219/431/products/49b57017-8234-4f0c-8d79-61f6a548a10e-b1e022db2664c47a9f16935199690029-640-0.webp",
+  "category": "Ropa de mujer",
+  "description": "Buzo regular fit con capucha y sobre manga",
+  "stock": 78,
+  "tipo": "Buzo"
+},
+{
+  "_id": {
+    "$oid": "656caa8e74e2cb9477de5dc6"
+  },
+  "title": "Buzo Roll On Off White",
+  "price": 47990,
+  "image": "https://acdn.mitiendanube.com/stores/219/431/products/67266ac1-0804-4d05-801c-2424623b3b98-471fb92e975900299816935204630513-640-0.webp",
+  "category": "Ropa de mujer",
+  "description": "Buzo canguro regular fit con capucha. Estampa en el frente y espalda.",
+  "stock": 49,
+  "tipo": "Buzo"
+},
+{
+  "_id": {
+    "$oid": "656caa8e74e2cb9477de5dc8"
+  },
+  "title": "Buzo Crop Off White",
+  "price": 43990,
+  "image": "https://acdn.mitiendanube.com/stores/219/431/products/e3449617-6c4c-4684-bb9d-8d541e55e62e-daff3d827076c9772d16935174402766-1024-1024.webp",
+  "category": "Ropa de mujer",
+  "description": "Buzo corto con capucha. Con recorte en el frente y terminación sin ruedo",
+  "stock": 63,
+  "tipo": "Buzo"
+},
+{
+  "_id": {
+    "$oid": "656caa8e74e2cb9477de5dc9"
+  },
+  "title": "Buzo NAB Black",
+  "price": 63990,
+  "image": "https://acdn.mitiendanube.com/stores/219/431/products/5cb28981-b7e4-4a7a-80a6-26105274b826-821f121cde571388f416935202308722-1024-1024.webp",
+  "category": "Ropa de hombre",
+  "description": "Buzo oversize fit con cuello redondo. Estampa en el frente.",
+  "stock": 77,
+  "tipo": "Buzo"
+},
+{
+  "_id": {
+    "$oid": "656caa8e74e2cb9477de5dca"
+  },
+  "title": "Buzo College",
+  "price": 59990,
+  "image": "https://acdn.mitiendanube.com/stores/219/431/products/f456bbc5-a22c-42c9-8645-9c85540fb9c9-792d662c306445aaf516935199981488-1024-1024.webp",
+  "category": "Ropa de mujer",
+  "description": "Buzo oversize fit con cuello redondo. Aplique con bordado en el frente, con detalle en la manga izquierda.",
+  "stock": 36,
+  "tipo": "Buzo"
+},
+{
+  "_id": {
+    "$oid": "6579d57c78d3c081fd3349f3"
+  },
+  "title": "Remera Raid Gris",
+  "image": "http://localhost:4000/images\\img-1702483324185.webp",
+  "category": "Ropa de hombre",
+  "description": "Remera oversized square fit. 100% Algodón. Estampada en pecho y logo bordado en espalda.",
+  "stock": 67,
+  "tipo": "Remera",
+  "price": "37500"
+},
+{
+  "_id": {
+    "$oid": "6579d6f278d3c081fd3349f9"
+  },
+  "title": "Remera Caterpillar Negro",
+  "price": 35000,
+  "image": "http://localhost:4000/images\\img-1702483698350.webp",
+  "category": "Ropa de hombre",
+  "description": "Remera  oversized fit. 100% Algodón. Tipologia estampada en pecho y estampa heavy graphic en espalda.",
+  "stock": 56,
+  "tipo": "Remera"
+},
+{
+  "_id": {
+    "$oid": "6579d72c78d3c081fd3349fb"
+  },
+  "title": "Musculosa Flavored Negro",
+  "price": 34000,
+  "image": "http://localhost:4000/images\\img-1702483756505.webp",
+  "category": "Ropa de hombre",
+  "description": "Remera sin mangas oversized square fit. 100% Algodón. Estampa heavy graphic en pecho y espalda.",
+  "stock": 56,
+  "tipo": "Remera"
+},
+{
+  "_id": {
+    "$oid": "6579d79b78d3c081fd3349fd"
+  },
+  "title": "Remera Chopper Negro",
+  "price": 35100,
+  "image": "http://localhost:4000/images\\img-1702483867571.webp",
+  "category": "Ropa de hombre",
+  "description": "Remera oversized. 100% algodón. Estampada en serigrafía en pecho y espalda.\n",
+  "stock": 78,
+  "tipo": "Remera"
+},
+{
+  "_id": {
+    "$oid": "6579d7fc78d3c081fd3349ff"
+  },
+  "title": "Remera Output Negro",
+  "price": 27000,
+  "image": "http://localhost:4000/images\\img-1702483964029.webp",
+  "category": "Ropa de mujer",
+  "description": "Remera oversized. 100% algodón. Estampada en serigrafía en pecho y espalda.\n",
+  "stock": 70,
+  "tipo": "Remera"
+},
+{
+  "_id": {
+    "$oid": "6579d86778d3c081fd334a03"
+  },
+  "title": "Remera DiabloCia Negro",
+  "price": 26800,
+  "image": "http://localhost:4000/images\\img-1702484071504.webp",
+  "category": "Ropa de hombre",
+  "description": "Remera oversized. 100% algodón. Estampada en serigrafía en pecho y espalda.\n",
+  "stock": 74,
+  "tipo": "Remera"
+},
+{
+  "_id": {
+    "$oid": "6579d8fb78d3c081fd334a05"
+  },
+  "title": "Remera DiabloCia Negro",
+  "price": 28500,
+  "image": "http://localhost:4000/images\\img-1702484219607.webp",
+  "category": "Ropa de hombre",
+  "description": "Remera oversized. 100% algodón. Estampada en serigrafía en pecho y espalda.\n",
+  "stock": 62,
+  "tipo": "Remera"
+},
+{
+  "_id": {
+    "$oid": "6579d93d78d3c081fd334a09"
+  },
+  "title": "Remera Orden Negro",
+  "price": 28200,
+  "image": "http://localhost:4000/images\\img-1702484285340.webp",
+  "category": "Ropa de hombre",
+  "description": "Remera oversized square fit. 100% Algodón. Estampada en pecho y espalda.",
+  "stock": 45,
+  "tipo": "Remera"
+},
+{
+  "_id": {
+    "$oid": "6579d97678d3c081fd334a0b"
+  },
+  "title": "Remera Orden Oxid",
+  "price": 28200,
+  "image": "http://localhost:4000/images\\img-1702484342464.webp",
+  "category": "Ropa de hombre",
+  "description": "Remera oversized square fit. 100% Algodón. Estampada en pecho y espalda.",
+  "stock": 78,
+  "tipo": "Remera"
+},
+{
+  "_id": {
+    "$oid": "6579da7078d3c081fd334a0f"
+  },
+  "title": "Buzo Corto Webbing Negro",
+  "price": 65000,
+  "image": "http://localhost:4000/images\\img-1702484592948.webp",
+  "category": "Ropa de hombre",
+  "description": "Buzo corto cuello redondo con cierre. 100% algodón. Bordados tipográficos pecho, logo en espalda y mangas.",
+  "stock": 89,
+  "tipo": "Buzo"
+},
+{
+  "_id": {
+    "$oid": "6579daa778d3c081fd334a11"
+  },
+  "title": "Buzo Layer Negro",
+  "price": 49500,
+  "image": "http://localhost:4000/images\\img-1702484647752.webp",
+  "category": "Ropa de hombre",
+  "description": "Buzo Híbrido de cuello redondo. 100% algodón. Superposición de buzo sobre remera. Cuerpo de frisa y mangas de jersey doble. Estampa en ambas mangas y bordado en faldón inferior. ",
+  "stock": 45,
+  "tipo": "Buzo"
+},
+{
+  "_id": {
+    "$oid": "6579daed78d3c081fd334a13"
+  },
+  "title": "Buzo Corto Beton Brut Gris",
+  "price": 47900,
+  "image": "http://localhost:4000/images\\img-1702484717385.webp",
+  "category": "Ropa de mujer",
+  "description": "Buzo corto con capucha. 100% algodón. Bordados tipográficos pecho y espalda. ",
+  "stock": 56,
+  "tipo": "Buzo"
+},
+{
+  "_id": {
+    "$oid": "6579dbb778d3c081fd334a1b"
+  },
+  "title": "Buzo Iceworld Blanco",
+  "price": 46700,
+  "image": "http://localhost:4000/images\\img-1702484919577.webp",
+  "category": "Ropa de hombre",
+  "description": "Buzo pesado oversized con capucha estampado en pecho y espalda; y bordado en capucha. 88% Algodón 12% Poliester. ",
+  "stock": 56,
+  "tipo": "Buzo"
+},
+{
+  "_id": {
+    "$oid": "6579dc1478d3c081fd334a1d"
+  },
+  "title": "Buzo Iceworld Blanco",
+  "price": 87800,
+  "image": "http://localhost:4000/images\\img-1702485012355.webp",
+  "category": "Ropa de hombre",
+  "description": "Buzo mangas largas 100% Algodón. Regular fit. Estampado en serigrafía en pecho.",
+  "stock": 40,
+  "tipo": "Buzo"
+},
+{
+  "_id": {
+    "$oid": "6579dc4e78d3c081fd334a21"
+  },
+  "title": "Buzo Bunny Blanco",
+  "price": 57200,
+  "image": "http://localhost:4000/images\\img-1702485070129.webp",
+  "category": "Ropa de hombre",
+  "description": "Buzo mangas largas 100% Algodón. Regular fit. Estampado en serigrafía en mangas.",
+  "stock": 70,
+  "tipo": "Buzo"
+},
+{
+  "_id": {
+    "$oid": "6579dcb478d3c081fd334a23"
+  },
+  "title": "Buzo Reverse",
+  "price": 60990,
+  "image": "http://localhost:4000/images\\img-1702485172951.webp",
+  "category": "Ropa de hombre",
+  "description": "Buzo oversize fit sin capucha con escote redondo, bordado en el frente. Ribb en cuello, puño y cintura",
+  "stock": 70,
+  "tipo": "Buzo"
+},
+{
+  "_id": {
+    "$oid": "6586126ff20547e5a375aad9"
+  },
+  "title": "Remeron Tag Black",
+  "price": 34990,
+  "image": "http://localhost:4000/images\\img-1703285359371.webp",
+  "category": "Ropa de hombre",
+  "description": "Remera negra de algodón con estampado en el pecho",
+  "stock": 56,
+  "tipo": "Remera",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65866237667acbccf6a3cc8b"
+  },
+  "title": "Remeron Rihanna",
+  "price": "34000",
+  "image": "http://localhost:4000/images\\img-1703305783239.webp",
+  "category": "Ropa de hombre",
+  "description": "Remera de algodon con estampado de Rihanna en el torso.",
+  "stock": "56",
+  "tipo": "Remera",
+  "__v": 0
+}]
