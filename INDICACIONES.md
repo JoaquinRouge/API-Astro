@@ -1,5 +1,7 @@
 FUNCIONALIDADES DE LA PAGINA:
 
+- EL .ENV NO ESTA AGREGADO AL .GITIGNORE PARA UNA MEJOR COMODIDAD PARA VOS PROFE, PERO NORMALMENTE SI LO HUBIERA AGREGADO AL .GITIGNORE -
+
 - Se puede registrar un usuario en el formulario de inicio de sesión el cual no tendra acceso a las funcionalidades de administrador puesto que no es admin
 
 - En el header se podra navegar en las diferentes categorias de muestra de productos
